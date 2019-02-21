@@ -7,9 +7,9 @@ Gradle version is gradle-4.10.1
 
 API level -28
 
-Java source file is in "RESTApiExample\app\src\main\java\com\example\restapiexample"
+Java source file is in "app\src\main\java\com\example\restapiexample"
 
-XML layout file is in "RESTApiExample\app\src\main\res\layout"
+XML layout file is in "app\src\main\res\layout"
 
 Main interface is
 
